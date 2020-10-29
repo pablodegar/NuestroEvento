@@ -1,0 +1,112 @@
+body{
+  font-family:'Montserrat', sans-serif;
+  line-height: 1.7;
+  text-align: center;
+}
+p{
+  color: #2A2A2B;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+h2{
+  color: #fff;
+}
+#titulo{
+  background-color: #6666CC;
+  color: #fff;
+}
+#nosotros{
+  background-color:#fff;
+  
+  padding: 7% 10%;
+}
+#servicios-slider{
+  background-color: #6666CC;
+  
+  padding: 4%;
+}
+#cta{
+  
+  background-color:#fff;
+  padding: 8% 10% 8%;
+}
+#footer{
+  background-color: #6666CC;
+  
+}
+/* barra de navegación */
+.logo-navbar{
+  width: 20%;
+}
+.navbar{
+  margin:0 10%;
+  padding-top: 3%;
+  font-weight: 400;
+}
+.nav-link{
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+/* titulo */
+.titulo-contenedor{
+  
+  margin: 0 10%;
+  padding:7% 0;
+}
+.titulo-cta{
+font-weight: 700;
+font-size: 3rem;
+padding: 7% 0;
+}
+.logo-titulo{
+  width: 10%;
+}
+/* conocenos */
+.conocenos{
+  font-weight: 700;
+  font-size: 3rem;
+  color: #6666CC;
+  padding-bottom: 3%;
+}
+/* slider */
+.titulo-slider{
+  display: block;
+  margin: auto;
+  color: #fff;
+  padding-bottom: 3%;
+  font-weight: 700;
+  font-size: 3rem;
+}
+.servicios-imagen{
+  width: 50%;
+}
+.texto-servicios{
+  margin: 2% 0 2% 0;
+}
+/* cta */
+.boton-cta{
+  color: #6666CC;
+  border-color:#6666CC;;
+  margin: 2%;
+}
+.texto-cta{
+  color: #6666CC;
+  font-weight: 700;
+  font-size: 2rem;
+}
+/* footer */
+.copy-footer{
+  font-size: .7rem;
+  color: #fff;
+  margin: 0;
+}
+.contenedor-footer{
+  padding: 5% 10% 2%;
+}
+.footer-icon{
+  color: #fff;
+  padding: 0 15px;
+}
+.contenedor-iconos{
+  padding-bottom: 20px;
+}

@@ -1,0 +1,54 @@
+body{
+    font-family:'Montserrat', sans-serif;
+    color: #6666CC;
+    margin: 0;
+}
+#footer{
+    background-color: #6666CC;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 50px;
+}
+.titulo{
+    font-weight: 700;
+    font-size: 2.5;
+    padding: 7% 0 10px;
+}
+.texto-titulo{
+    font-size: 1.7rem;
+    margin-bottom: 30px;
+}
+.navbar{
+    background-color: transparent !important;
+    padding: 0;
+}
+.container-fluid{
+    padding: 0 10%;
+}
+.form-nombres{
+    margin-bottom: 30px;
+}
+.form-correo{
+    margin-bottom: 30px;
+}
+.btn{
+    background-color: #6666CC;
+    border-color: transparent;
+}
+
+.copy-footer{
+    font-size: .7rem;
+    color: #fff;
+    margin: 0;
+  }
+  .contenedor-footer{
+    padding: 5% 10% 2%;
+  }
+  .footer-icon{
+    color: #fff;
+    padding: 0 5px;
+  }
+  .contenedor-iconos{
+    padding-bottom: 20px;
+  }
+  
